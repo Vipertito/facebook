@@ -1,0 +1,22 @@
+.first-header {
+  display: flex;
+  width: 25%;
+}
+
+.logo {
+  width: 15%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.Search {
+  width: 60%;
+  display: flex;
+  align-items: center;
+  background-color: #f0f2f5;
+  border-radius: 1.5rem;
+  height: 3rem;
+  padding: 0 20px;
+  margin-top: 1.25rem;
+}
