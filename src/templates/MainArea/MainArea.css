@@ -100,23 +100,34 @@
 }
 .addStory{
     display: flex;
-    width: 150%;
+    width: 100%;
     margin: 20px 0;
     color:white;
     font-size: 1.5rem;
     height: 20rem;
     justify-content: flex-start;
-    padding: 5%;
 }
 .Story{
     width: 130px;
     margin: 0 10px;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: column;
     height: 20rem;
     border-radius: .5rem;
     background-color: black;
+}
+.img-story {
+    margin: 1rem;
+    height: 40px;
+    width: 40px;
+    border-radius: 60%;
+    border-style: solid;
+    border-color: #385898;
+}
+.footer{
+    padding-left: 1rem;
+    margin-top: 11.5rem;
 }
 .message{
     display: grid;

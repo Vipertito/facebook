@@ -90,71 +90,41 @@ function MainArea() {
             <img
               src="4.jpg"
               alt="IMG"
-              style={{ height: "60px", width: "60px", borderRadius: "60%" }}
+              className="img-story"
             />
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            Mainak Banerjee
+            <div className="footer">Mainak Banerjee</div>
           </div>
           <div className="Story">
             <img
               src="7.jpg"
               alt="IMG"
-              style={{ height: "60px", width: "60px", borderRadius: "60%" }}
-            />
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            Souvik Acharya
+              className="img-story"
+              />
+              <div className="footer">Souvik Acharya</div>
           </div>
           <div className="Story">
             <img
               src="8.jpg"
               alt="IMG"
-              style={{ height: "60px", width: "60px", borderRadius: "60%" }}
-            />
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            Sagnik Sen
+              className="img-story"
+              />
+              <div className="footer">Sagnik Sen</div>
           </div>
           <div className="Story">
             <img
               src="9.jpg"
               alt="IMG"
-              style={{ height: "60px", width: "60px", borderRadius: "60%" }}
-            />
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            Adyata Singha
+              className="img-story"
+              />
+              <div className="footer">Adyata Singha</div>
           </div>
           <div className="Story">
             <img
               src="10.jpg"
               alt="IMG"
-              style={{ height: "60px", width: "60px", borderRadius: "60%" }}
-            />
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            <br></br>
-            Avik Saha
+              className="img-story"
+              />
+              <div className="footer">Avik Saha</div>
           </div>
         </div>
         <div className="message">
